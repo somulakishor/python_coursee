@@ -156,4 +156,5 @@ for i in A:
         dict[i]=1
 print(dict)
 
+print("successfully uploaded")
 
